@@ -1,0 +1,6 @@
+{
+  "id": "section-theme",
+  "name": "Section Theme",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": ["Object"]
+}
